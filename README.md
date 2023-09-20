@@ -18,8 +18,7 @@ I used Tableau to create the dashboards. I decided to make two: one that showed 
 **Platform Dashboard screenshot**
 <img src = "https://github.com/pdizzle10/social-media-dashboard/blob/main/finished_product/platform_dashboard.png">
 
-**Platform walkthrough**
-https://github.com/pdizzle10/social-media-dashboard/assets/134708540/c945d738-d94a-44f8-9cc2-79eae6fd39c8
+**[Platform walkthrough](https://github.com/pdizzle10/social-media-dashboard/assets/134708540/c945d738-d94a-44f8-9cc2-79eae6fd39c8)**
 
 
 
